@@ -3,5 +3,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.ExCiteS:apache-commons-codec-shaded:1.11'
+    implementation 'com.github.hinata-appirits:apache-commons-codec-shaded-new:1.11.1'
 }
